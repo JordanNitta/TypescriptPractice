@@ -6,6 +6,6 @@ I'm currently enrolled in a TypeScript course, which is part of the JavaScript P
   <p>Section One</p>
   <a href="/ConditionsAndLoops">ConditionsAndLoops</a><br>
   <a href="/TypesInTypeScript">TypesInTypeScript</a><br>
-  <a href="/codingChallengesPartOne">CodingChallengesPartOne</a>
+  <a href="/condingChallengesPartOne">CodingChallengesPartOne</a>
 </div>
 
